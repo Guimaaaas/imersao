@@ -3,7 +3,7 @@ let dados = [
         titulo : "Gabi Guimarães",
         descricao : "Gabriela Guimarães, carinhosamente chamada de Gabi, é uma das maiores referências do vôlei feminino brasileiro e mundial. Com sua potência nos ataques, habilidade nos bloqueios e liderança em quadra, a ponteira conquistou o coração dos fãs e se tornou um dos principais nomes do esporte.",
         link : "https://women.volleybox.net/pt/gabriela-guimaraes-p1313",
-        tags : "ponteira ponta gabriela braga filha do deus do vôlei volei capitã capita ace"
+        tags : "ponteira ponta gabi braga guimaraes gabi guimaraes gabriela guimarães gabriela braga guimaraes filha do deus do vôlei volei capitã capita ace"
     },
     {
         titulo : "Carol",
